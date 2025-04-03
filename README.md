@@ -32,15 +32,15 @@
 🔹 Implementación de **APIs REST** y automatización de consultas SQL.  
 🔹 Creación de dashboards para visualización de datos en tiempo real.  
 
-### 📊 **DataVault** - [🔗 Repositorio](https://github.com/Arnold-Limo/DataVault)  
+### 📊 **DataVault**  
 💡 Un **almacén de datos NoSQL** de alto rendimiento para análisis masivo.  
 🛠️ **Tecnologías**: MongoDB, Python, FastAPI, AWS  
 
-### 📈 **StockTracker** - [🔗 Repositorio](https://github.com/Arnold-Limo/StockTracker)  
+### 📈 **StockTracker**  
 💡 Un **dashboard en tiempo real** para seguimiento de acciones en la bolsa.  
 🛠️ **Tecnologías**: Node.js, Express, PostgreSQL, Docker  
 
-### 🛠️ **SmartDB Optimizer** - [🔗 Repositorio](https://github.com/Arnold-Limo/SmartDB-Optimizer)  
+### 🛠️ **SmartDB Optimizer**  
 💡 Un **optimizador de consultas SQL** con inteligencia artificial.  
 🛠️ **Tecnologías**: Python, SQL, Machine Learning  
 
@@ -67,7 +67,7 @@
 📧 **Email**: 73660657@continental.edu.pe  
 🔗 **GitHub**: [Arnold-Limo](github.com/Arnold-star-lab)  
 🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-star-lab.github.io/Arnold-Limo.github.io/) 
- **Segundo Portafolio en Progreso** : [arnold-limo.github.io](https://arnold-star-lab.github.io//)
+🌎 **Segundo Portafolio en Progreso** : [arnold-limo.github.io](https://arnold-star-lab.github.io//)
 
 ---
 
