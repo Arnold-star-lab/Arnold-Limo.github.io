@@ -65,9 +65,9 @@
 ## 📬 Conéctate Conmigo  
 
 📧 **Email**: 73660657@continental.edu.pe  
-🔗 **GitHub**: [Arnold-Limo](https://github.com/Arnold-Limo)  
-🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-star-lab.github.io/Arnold-Limo.github.io/)  
-
+🔗 **GitHub**: [Arnold-Limo](github.com/Arnold-star-lab)  
+🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-star-lab.github.io/Arnold-Limo.github.io/) 
+ **Segundo Portafolio en Progreso** : [arnold-limo.github.io](https://arnold-star-lab.github.io//)
 
 ---
 
