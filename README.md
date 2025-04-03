@@ -8,7 +8,7 @@
 
 ## 👋 Sobre Mí  
 
-🎓 **Estudiante de Ingeniería de Sistemas e Informática** (8vo ciclo) apasionado por el desarrollo **backend** y las **bases de datos**.  
+🎓 **Hola, me llamo Arnold Hugo Limo Yufra y soy estudiante de Ingeniería de Sistemas e Informática** (8vo ciclo) apasionado por el desarrollo **backend** y las **bases de datos**.  
 
 💡 Actualmente me enfoco en:  
 - **SQL y NoSQL** 📊  
