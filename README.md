@@ -59,6 +59,13 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 🔹 Seguir perfeccionando mis habilidades en **optimización de bases de datos**.  
 🔹 Explorar arquitecturas **serverless y edge computing**.  
 🔹 Participar en proyectos de **automatización y optimización de consultas**.  
+---
+
+## 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnold-star-lab&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ---
 
