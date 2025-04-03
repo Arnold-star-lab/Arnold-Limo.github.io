@@ -1,5 +1,4 @@
-# 🚀 Arnold-Limo.github.io  
-
+💾 **¡Hola! Soy Arnold Hugo Limo Yufra**
 ![Portada](https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image1.jpg)  
 
 🎯 **Desarrollador Backend en formación | Enfocado en Bases de Datos | Apasionado por la Tecnología**  
@@ -8,7 +7,7 @@
 
 ## 🔥 Sobre Mí  
 
-💾 **¡Hola! Soy Arnold Hugo Limo Yufra**, estudiante de **Ingeniería de Sistemas** en el octavo ciclo. Me apasiona el desarrollo **backend** y el mundo de **las bases de datos**.  
+Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el octavo ciclo. Me apasiona el desarrollo **backend** y el mundo de **las bases de datos**.  
 
 💡 Actualmente, me encuentro profundizando en **SQL y NoSQL**, optimización de consultas y arquitecturas escalables para mejorar el rendimiento de sistemas de alto tráfico.  
 
