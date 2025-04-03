@@ -1,24 +1,24 @@
 # 🚀 Arnold-Limo.github.io  
 
-![Portada](https://github.com/Arnold-star-lab/Arnold-Limo.github.io/blob/main/images/image1.jpg) 
+![Portada](https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image1.jpg)  
 
-🎯 **Desarrollador Backend | Especialista en Bases de Datos | Apasionado por la Tecnología**  
+🎯 **Desarrollador Backend en formación | Enfocado en Bases de Datos | Apasionado por la Tecnología**  
 
 ---
 
 ## 🔥 Sobre Mí  
 
-💾 **¡Hola! Soy Arnold Limo**, un desarrollador apasionado por **bases de datos** y el **backend**. Me encanta trabajar con **SQL, NoSQL, optimización de consultas y arquitectura de sistemas escalables**.  
+💾 **¡Hola! Soy Arnold Hugo Limo Yufra**, estudiante de **Ingeniería de Sistemas** en el octavo ciclo. Me apasiona el desarrollo **backend** y el mundo de **las bases de datos**.  
 
-💡 Siempre estoy explorando nuevas formas de hacer que los datos sean más accesibles, eficientes y seguros en sistemas **cloud y on-premise**.  
+💡 Actualmente, me encuentro profundizando en **SQL y NoSQL**, optimización de consultas y arquitecturas escalables para mejorar el rendimiento de sistemas de alto tráfico.  
 
-🎯 **Objetivo Actual**: Mejorar la optimización de consultas SQL y diseñar arquitecturas **distribuidas y escalables** para grandes volúmenes de datos.  
+🎯 **Enfoque**: Mi interés principal es la administración, diseño y optimización de bases de datos, así como su integración con sistemas backend eficientes y escalables.  
 
 📍 **Ubicación**: Cusco, Perú 🇵🇪  
 
 ---
 
-## 🛠️ Tecnologías & Herramientas  
+## 🚀 Habilidades & Tecnologías  
 
 | **Bases de Datos** | **Lenguajes** | **Backend** | **DevOps & Cloud** | **Otros** |
 |--------------------|--------------|-------------|--------------------|-----------|
@@ -26,71 +26,48 @@
 
 ---
 
-## 💼 Experiencia Profesional  
+## 💼 Experiencia & Proyectos  
 
-### 🏢 **Ingeniero de Bases de Datos | Empresa X (2022 - Presente)**  
-✅ Diseño y optimización de bases de datos SQL y NoSQL.  
-✅ Implementación de estrategias de indexación y replicación.  
-✅ Integración de bases de datos con **AWS, Docker y Kubernetes**.  
-
-### 🏢 **Desarrollador Backend | Empresa Y (2020 - 2022)**  
-✅ Creación de **APIs REST y GraphQL** para gestión de datos.  
-✅ Optimización de consultas en **PostgreSQL y MongoDB**.  
-✅ Automatización de despliegues con **CI/CD y Docker**.  
-
----
-
-## 📂 Proyectos Destacados  
+🔹 **Proyectos académicos y personales** en optimización de bases de datos y desarrollo backend.  
+🔹 Implementación de **APIs REST** y automatización de consultas SQL.  
+🔹 Creación de dashboards para visualización de datos en tiempo real.  
 
 ### 📊 **DataVault** - [🔗 Repositorio](https://github.com/Arnold-Limo/DataVault)  
 💡 Un **almacén de datos NoSQL** de alto rendimiento para análisis masivo.  
 🛠️ **Tecnologías**: MongoDB, Python, FastAPI, AWS  
 
-![DataVault](https://source.unsplash.com/800x400/?database,cloud)  
-
 ### 📈 **StockTracker** - [🔗 Repositorio](https://github.com/Arnold-Limo/StockTracker)  
 💡 Un **dashboard en tiempo real** para seguimiento de acciones en la bolsa.  
 🛠️ **Tecnologías**: Node.js, Express, PostgreSQL, Docker  
-
-![StockTracker](https://source.unsplash.com/800x400/?stocks,graph)  
 
 ### 🛠️ **SmartDB Optimizer** - [🔗 Repositorio](https://github.com/Arnold-Limo/SmartDB-Optimizer)  
 💡 Un **optimizador de consultas SQL** con inteligencia artificial.  
 🛠️ **Tecnologías**: Python, SQL, Machine Learning  
 
-![SmartDB](https://source.unsplash.com/800x400/?artificial,intelligence)  
-
 ---
 
 ## 📚 Formación & Certificaciones  
 
-🎓 **Ingeniería en Sistemas** - Universidad XYZ  
-📜 **Certificación en Bases de Datos Avanzadas** - Oracle  
-☁️ **Curso de Cloud Computing y DevOps** - AWS Academy  
+🎓 **Ingeniería de Sistemas** - Octavo ciclo  
+📜 **Certificación en SQL y Bases de Datos** (en progreso)  
+☁️ **Curso de Cloud Computing y DevOps**  
 
 ---
 
 ## 🎯 Objetivos y Planes  
 
-🔥 Mejorar el rendimiento de bases de datos en sistemas de alto tráfico.  
-🚀 Desarrollar herramientas de **automatización y optimización** en bases de datos.  
-🌎 Explorar arquitecturas **serverless y edge computing**.  
+🔹 Seguir perfeccionando mis habilidades en **optimización de bases de datos**.  
+🔹 Explorar arquitecturas **serverless y edge computing**.  
+🔹 Participar en proyectos de **automatización y optimización de consultas**.  
 
 ---
 
 ## 📬 Conéctate Conmigo  
 
-📧 **Email**: arnoldlimo.dev@example.com  
+📧 **Email**: 73660657@continental.edu.pe  
 🔗 **GitHub**: [Arnold-Limo](https://github.com/Arnold-Limo)  
-💼 **LinkedIn**: [linkedin.com/in/arnoldlimo](https://linkedin.com/in/arnoldlimo)  
-🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-limo.github.io)  
+🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-star-lab.github.io/Arnold-Limo.github.io/)  
 
----
-
-## 🎨 Estadísticas de GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnold-Limo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnold-Limo&layout=compact&theme=radical)  
 
 ---
 
