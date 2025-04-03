@@ -1,5 +1,13 @@
 <h1 align="center">🚀 Arnold Limo | Backend Developer en Formación </h1>
 
+<!-- Aplicando fondo azul oscuro -->
+<style>
+  body {
+    background-color: #0D1B2A;
+    color: white;
+  }
+</style>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image1.jpg" width="800">
 </p>
@@ -8,12 +16,15 @@
 
 ## 👋 Sobre Mí  
 
-🎓 **Hola, me llamo Arnold Hugo Limo Yufra y soy estudiante de Ingeniería de Sistemas e Informática** (8vo ciclo) apasionado por el desarrollo **backend** y las **bases de datos**.  
+💾 **¡Hola! Soy Arnold Hugo Limo Yufra**, un estudiante apasionado por el desarrollo **backend** y las **bases de datos**.  
 
-💡 Actualmente me enfoco en:  
+🎓 **Actualmente en 8vo ciclo de Ingeniería de Sistemas e Informática**.  
+
+💡 Me especializo en:  
 - **SQL y NoSQL** 📊  
 - **Optimización de consultas y rendimiento de bases de datos** 🚀  
 - **Desarrollo backend con Python y Node.js**  
+- **Integración de bases de datos con sistemas en la nube** ☁️  
 
 📍 **Ubicación**: Cusco, Perú 🇵🇪  
 
@@ -33,6 +44,15 @@
 
 ---
 
+## 💼 Experiencia  
+
+🔹 **Proyectos académicos y personales** en optimización de bases de datos y desarrollo backend.  
+🔹 Implementación de **APIs REST** y automatización de consultas SQL.  
+🔹 Creación de dashboards para visualización de datos en tiempo real.  
+🔹 Uso de **Docker, AWS y Kubernetes** para despliegues escalables.  
+
+---
+
 ## 📂 Proyectos Destacados  
 
 ### 📊 **DataVault**  
@@ -45,13 +65,26 @@
 🛠️ **Tecnologías**: Node.js, Express, PostgreSQL, Docker  
 📌 [🔗 Ver Repositorio](https://github.com/Arnold-Limo/StockTracker)  
 
+### 🛠️ **SmartDB Optimizer**  
+💡 Un **optimizador de consultas SQL** con inteligencia artificial.  
+🛠️ **Tecnologías**: Python, SQL, Machine Learning  
+📌 [🔗 Ver Repositorio](https://github.com/Arnold-Limo/SmartDB-Optimizer)  
+
 ---
 
-## 📚 Formación  
+## 📚 Formación y Certificaciones  
 
-📖 **Ingeniería de Sistemas e Informática** - (8vo Ciclo)  
-🎓 **Certificación en SQL y Bases de Datos** *(En progreso)*  
+🎓 **Ingeniería de Sistemas e Informática** - (8vo Ciclo)  
+📜 **Certificación en SQL y Bases de Datos** *(En progreso)*  
 ☁️ **Curso de Cloud Computing y DevOps**  
+
+---
+
+## 🎯 Objetivos y Planes  
+
+✅ Seguir perfeccionando mis habilidades en **optimización de bases de datos**.  
+✅ Explorar arquitecturas **serverless y edge computing**.  
+✅ Participar en proyectos de **automatización y optimización de consultas**.  
 
 ---
 
@@ -63,7 +96,7 @@
 
 ---
 
-## 📬 Contacto  
+## 📬 Conéctate Conmigo  
 
 📧 **Email**: 73660657@continental.edu.pe  
 🔗 **GitHub**: [Arnold-star-lab](https://github.com/Arnold-star-lab)  
