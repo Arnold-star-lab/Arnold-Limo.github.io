@@ -67,6 +67,7 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 📧 **Email**: 73660657@continental.edu.pe  
 🔗 **GitHub**: [Arnold-Limo](github.com/Arnold-star-lab)  
 🌎 **Portfolio Web**: [arnold-limo.github.io](https://arnold-star-lab.github.io/Arnold-Limo.github.io/) 
+
 🌎 **Segundo Portafolio en Progreso** : [arnold-limo.github.io](https://arnold-star-lab.github.io//)
 
 ---
