@@ -54,7 +54,7 @@ Actualemnte soy estudiante de **Ingeniería de Sistemas e informatica** en el oc
 ☁️ **Curso de Cloud Computing y DevOps**  
 
 ---
-<img align="right" width="400" alt="Shimarin" src="https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image4.jpg"/>
+<img src="https://raw.githubusercontent.com/Arnold-star-lab/Arnold-Limo.github.io/main/images/image4.jpg" alt="Shimarin" style="float: right; width: 400px; margin-left: 20px;">
 
 ## 🎯 Objetivos y Planes  
 
